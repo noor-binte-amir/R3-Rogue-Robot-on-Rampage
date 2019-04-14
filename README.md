@@ -3,7 +3,7 @@
 A VR Game build using Unity3D and Blender.
 
 ## Description
-The game features a rogue robot looking for its heart in an abandoned landscape. The heart will make the robot indestructible. The players task is to hide the heart in one of the buildings, defeat the robot's minions and destroy its power sources before he finds the heart on his rampage. Collect blue orbs for health and purple orbs to enhance the hearts defences.
+The game features a rogue robot looking for its heart in an abandoned landscape. The heart will make the robot indestructible. The players task is to hide the heart in one of the buildings, defeat the robot's minions and destroy its power sources before he finds the heart on his rampage. Collect blue orbs for health and purple orbs to enhance the heart's defences.
 
 ## Getting Started
 Clone the repository and open project from Unity Editor to get started.
