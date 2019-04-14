@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Building
+  - hand
+  - Heart
+  - Shield
+  - projectile
+  - FxTemporaire
+  - Pick Up
+  - enemy
+  - sword
+  - Player2
+  - enemyscene
+  - Enemy
+  - Heal
+  - Controller
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - CharactersGuards
+  - Heart
+  - Building
+  - CantCollide
+  - Mask
+  - Particles
+  - PlaneReflections
+  - Crowd
+  - AreaLights
+  - Crowd Object
+  - Crowd Ground
+  - Characters
+  - Interior
+  - Tunnel
+  - Exterior
+  - Terrain
+  - Dream
+  - SlateUI
+  - Sky
+  - ParticleForcesPuddleDetailTest
+  - ParticleForcesPuddle
+  - Robot
+  - stairs
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
