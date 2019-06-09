@@ -18,20 +18,16 @@ Clone the repository and open project from Unity Editor to get started.
 * VR Headset
 
 ## Screenshots
-Robot                 |  Power Source        
+Robot Model                |  Robot Rigged in Blender       
 :-------------------------:|:-------------------------:
-![R3](Screenshots/enemy.PNG?raw=true "R3") |![R3](Screenshots/enemy.PNG?raw=true "R3")
+![R3](Screenshots/robot.PNG?raw=true "R3") |![R3](Screenshots/rig.PNG?raw=true "R3")
 
-Purple Shield Orb               |  Sword and Health/Shield Bar      
+Robot Animation - Dying               |  Robot Animation - Grabbing      
 :-------------------------:|:-------------------------:
 ![R3](Screenshots/dying.png?raw=true "R3") |  ![R3](Screenshots/grabheart.png?raw=true "R3")
 
-Blue Health Orb             |       Defensive Shield
+Minor Enemy Model             |       Enemy Slicing
 :-------------------------:|:-------------------------:
 ![R3](Screenshots/enemy.PNG?raw=true "R3") |  ![R3](Screenshots/slicing.png?raw=true "R3")
-
-Minions             |  Buildings Under Attack       
-:-------------------------:|:-------------------------:
-![R3](Screenshots/enemy.PNG?raw=true "R3") |   ![R3](Screenshots/enemy.PNG?raw=true "R3")
 
 
