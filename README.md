@@ -20,18 +20,18 @@ Clone the repository and open project from Unity Editor to get started.
 ## Screenshots
 Robot                 |  Power Source        
 :-------------------------:|:-------------------------:
-![R3](Screenshots/capture6.PNG?raw=true "R3") |  ![R3](Screenshots/Capture2.PNG?raw=true "R3")
+![R3](Screenshots/robot.PNG?raw=true "R3") |  ![R3](Screenshots/rig.PNG?raw=true "R3")
 
 Purple Shield Orb               |  Sword and Health/Shield Bar      
 :-------------------------:|:-------------------------:
-![R3](Screenshots/Capture.PNG?raw=true "R3") |  ![R3](Screenshots/Capture5.PNG?raw=true "R3")
+![R3](Screenshots/robot.PNG?raw=true "R3") |  ![R3](Screenshots/rig.PNG?raw=true "R3")
 
 Blue Health Orb             |       Defensive Shield
 :-------------------------:|:-------------------------:
-![R3](Screenshots/Capture4.PNG?raw=true "R3") |  ![R3](Screenshots/Capture7.PNG?raw=true "R3")
+![R3](Screenshots/robot.PNG?raw=true "R3") |  ![R3](Screenshots/rig.PNG?raw=true "R3")
 
 Minions             |  Buildings Under Attack       
 :-------------------------:|:-------------------------:
-![R3](Screenshots/Capture1.PNG?raw=true "R3") |   ![R3](Screenshots/Capture3.PNG?raw=true "R3")
+![R3](Screenshots/robot.PNG?raw=true "R3") |   ![R3](Screenshots/rig.PNG?raw=true "R3")
 
 
