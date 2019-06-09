@@ -26,8 +26,8 @@ Robot Animation - Dying               |  Robot Animation - Grabbing
 :-------------------------:|:-------------------------:
 ![R3](Screenshots/dying.png?raw=true "R3") |  ![R3](Screenshots/grabheart.png?raw=true "R3")
 
-Minor Enemy Model             |       Enemy Slicing
-:-------------------------:|:-------------------------:
-![R3](Screenshots/enemy.PNG?raw=true "R3") |  ![R3](Screenshots/slicing.png?raw=true "R3")
+Minor Enemy Model     |        
+:-------------------------:
+![R3](Screenshots/enemy.PNG?raw=true "R3") |
 
 
