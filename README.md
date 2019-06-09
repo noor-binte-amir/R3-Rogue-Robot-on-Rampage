@@ -11,7 +11,7 @@ Clone the repository and open project from Unity Editor to get started.
 * VR Headset
 
 ## Screenshots
-Robot Model                |  Robot Rigged in Blender       
+<pre>        Robot Model        </pre> |  Robot Rigged in Blender       
 :-------------------------:|:-------------------------:
 ![R3](Screenshots/robot.PNG?raw=true "R3") |![R3](Screenshots/rig.PNG?raw=true "R3")
 
