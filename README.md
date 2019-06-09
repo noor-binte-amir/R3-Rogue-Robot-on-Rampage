@@ -32,6 +32,6 @@ Blue Health Orb             |       Defensive Shield
 
 Minions             |  Buildings Under Attack       
 :-------------------------:|:-------------------------:
-![R3](Screenshots/robot.PNG?raw=true "R3") |   ![R3](Screenshots/rig.PNG?raw=true "R3")
+![R3](Screenshots/enemy.PNG?raw=true "R3") |   ![R3](Screenshots/enemy.PNG?raw=true "R3")
 
 
