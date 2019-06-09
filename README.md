@@ -13,7 +13,7 @@ Clone the repository and open project from Unity Editor to get started.
 ## Screenshots
 Robot Model     |  Robot Rigged in Blender       
 :-------------------------:|:-------------------------:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![R3](Screenshots/robot.PNG?raw=true "R3") &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;![R3](Screenshots/rig.PNG?raw=true "R3")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![R3](Screenshots/robot.PNG?raw=true "R3") &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;![R3](Screenshots/rig.PNG?raw=true "R3")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Robot Animation - Dying     |  Robot Animation - Grabbing        
 :-------------------------:|:-------------------------:
