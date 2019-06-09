@@ -17,7 +17,7 @@ Robot Model     |  Robot Rigged in Blender
 
 Robot Animation - Dying     |  Robot Animation - Grabbing        
 :-------------------------:|:-------------------------:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![R3](Screenshots/dying.PNG?raw=true "R3") &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;![R3](Screenshots/grabheart.PNG?raw=true "R3")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![R3](Screenshots/dying.png?raw=true "R3") &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;![R3](Screenshots/grabheart.png?raw=true "R3")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Shield Orb     |        
 :-------------------------:
