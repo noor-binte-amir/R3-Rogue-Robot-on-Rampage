@@ -19,18 +19,19 @@ Shield Orb     |
 :-------------------------:
 ![R3](Screenshots/purpleorb.PNG?raw=true "R3") |
 
-Health Orb     |        
+Shield    |        
 :-------------------------:
-![R3](Screenshots/blueorb.PNG?raw=true "R3") |
+![R3](Screenshots/shield.PNG?raw=true "R3") |
 
 Sword and Power Bars     |        
 :-------------------------:
 ![R3](Screenshots/sword.PNG?raw=true "R3") |
 
-Shield    |        
-:-------------------------:
-![R3](Screenshots/shield.PNG?raw=true "R3") |
-
 Power Source     |        
 :-------------------------:
 ![R3](Screenshots/powersource.PNG?raw=true "R3") |
+
+Health Orb     |        
+:-------------------------:
+![R3](Screenshots/blueorb.PNG?raw=true "R3") |
+
