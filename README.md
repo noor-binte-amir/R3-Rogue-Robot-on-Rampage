@@ -24,11 +24,11 @@ Robot                 |  Power Source
 
 Purple Shield Orb               |  Sword and Health/Shield Bar      
 :-------------------------:|:-------------------------:
-![R3](Screenshots/robot.PNG?raw=true "R3") |  ![R3](Screenshots/rig.PNG?raw=true "R3")
+![R3](Screenshots/dying.PNG?raw=true "R3") |  ![R3](Screenshots/grabheart.PNG?raw=true "R3")
 
 Blue Health Orb             |       Defensive Shield
 :-------------------------:|:-------------------------:
-![R3](Screenshots/robot.PNG?raw=true "R3") |  ![R3](Screenshots/rig.PNG?raw=true "R3")
+![R3](Screenshots/enemy.PNG?raw=true "R3") |  ![R3](Screenshots/slicing.PNG?raw=true "R3")
 
 Minions             |  Buildings Under Attack       
 :-------------------------:|:-------------------------:
