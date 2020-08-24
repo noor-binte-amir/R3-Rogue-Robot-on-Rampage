@@ -1,6 +1,6 @@
 ![R3 Banner](Screenshots/ROBOT.png?raw=true "Banner")
 # R3-Rogue-Robot-on-Rampage
-A VR Game built using Unity3D and Blender.
+A VR Game built using Unity3D and Blender. Scroll down for sneakpeaks of the upcoming update!
 
 ## Getting Started
 Clone the repository and open project from Unity Editor to get started.
@@ -39,3 +39,15 @@ Health Orb     |
 :-------------------------:
 ![R3](Screenshots/blueorb.PNG?raw=true "R3") |
 
+# Sneakpeak
+![R3](Screenshots/Capture53.PNG?raw=true "R3")
+
+![R3](Screenshots/Capture42.PNG?raw=true "R3")
+
+![R3](Screenshots/Capture45.PNG?raw=true "R3")
+
+![R3](Screenshots/Capture48.PNG?raw=true "R3")
+
+![R3](Screenshots/Capture51.PNG?raw=true "R3")
+
+![R3](Screenshots/Capture50.PNG?raw=true "R3")
