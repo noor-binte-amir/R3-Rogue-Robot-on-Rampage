@@ -39,15 +39,3 @@ Health Orb     |
 :-------------------------:
 ![R3](Screenshots/blueorb.PNG?raw=true "R3") |
 
-# Sneakpeak
-![R3](Screenshots/Capture53.PNG?raw=true "R3")
-
-![R3](Screenshots/Capture42.PNG?raw=true "R3")
-
-![R3](Screenshots/Capture45.PNG?raw=true "R3")
-
-![R3](Screenshots/Capture48.PNG?raw=true "R3")
-
-![R3](Screenshots/Capture51.PNG?raw=true "R3")
-
-![R3](Screenshots/Capture50.PNG?raw=true "R3")
